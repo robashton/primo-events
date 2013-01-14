@@ -1,3 +1,4 @@
+var _ = require('underscore')
 var EventContainer = require('./eventcontainer');
   
 var Eventable = function() {
